@@ -75,7 +75,6 @@ public class DanhBaService {
                     String number = scanner.nextLine();
                     System.out.println("Nhập tên");
                     String name = scanner.nextLine();
-                    scanner.nextLine();
                     System.out.println("Nhập giới tính");
                     String sex = scanner.nextLine();
                     System.out.println("Nhập ngày sinh");
